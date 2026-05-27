@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/LT1054xSW:LT1054xSW",
+  "name": "LT1054xSW",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/LT1054xSW.kicad_sym",
+  "description": "Switched-Capacitor Voltage Converter with Regulator, output current 100mA, operating range 3.5V to 15V, low loss 1.1V at 100mA, SO-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1054lfh.pdf",
+  "keywords": "monolithic bipolar switched capacitor voltage converter regulator inverter doubler shutdown",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/LT1054xSW/",
+  "part_path": "parts/LT1054xSW",
+  "symbol_file": "parts/LT1054xSW/LT1054xSW.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:33.960Z"
+}

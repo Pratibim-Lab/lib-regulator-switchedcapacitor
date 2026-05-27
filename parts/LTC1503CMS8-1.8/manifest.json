@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/LTC1503CMS8-1.8:LTC1503CMS8-1.8",
+  "name": "LTC1503CMS8-1.8",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/LTC1503CMS8-1.8.kicad_sym",
+  "description": "Switched-Capacitor Voltage Step-Down Converter, 1.8V output, max output current 100mA, operating range 2.4V to 6V, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1503f.pdf",
+  "keywords": "regulator inductorless",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "LTC1503CMS8-2",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/LTC1503CMS8-1.8/",
+  "part_path": "parts/LTC1503CMS8-1.8",
+  "symbol_file": "parts/LTC1503CMS8-1.8/LTC1503CMS8-1.8.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:33.974Z"
+}

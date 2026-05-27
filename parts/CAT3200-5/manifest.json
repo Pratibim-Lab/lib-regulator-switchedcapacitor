@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/CAT3200-5:CAT3200-5",
+  "name": "CAT3200-5",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/CAT3200-5.kicad_sym",
+  "description": "Low Noise Regulated Charge Pump DC-DC Converter, 5 V, 100 mA, SOT-23-6",
+  "datasheet": "https://www.onsemi.com/pdf/datasheet/cat3200-d.pdf",
+  "keywords": "switched capacitor charge pump",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/CAT3200-5/",
+  "part_path": "parts/CAT3200-5",
+  "symbol_file": "parts/CAT3200-5/CAT3200-5.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:33.844Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/LMC7660:LMC7660",
+  "name": "LMC7660",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/LMC7660.kicad_sym",
+  "description": "Voltage converter from +1.5V to +10V to +1.5V to +10V, SO-8/DIP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lmc7660.pdf",
+  "keywords": "Voltage converter",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/LMC7660/",
+  "part_path": "parts/LMC7660",
+  "symbol_file": "parts/LMC7660/LMC7660.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:33.915Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/TPS60400DBV:TPS60400DBV",
+  "name": "TPS60400DBV",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/TPS60400DBV.kicad_sym",
+  "description": "Unregulated 60-mA Charge Pump Voltage Inverter with Variable Switching Frequency 50 kHz - 250 kHz, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps60400.pdf",
+  "keywords": "unregulated charge pump inverter variable switching frequency",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/TPS60400DBV/",
+  "part_path": "parts/TPS60400DBV",
+  "symbol_file": "parts/TPS60400DBV/TPS60400DBV.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:34.049Z"
+}

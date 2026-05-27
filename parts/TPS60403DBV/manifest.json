@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/TPS60403DBV:TPS60403DBV",
+  "name": "TPS60403DBV",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/TPS60403DBV.kicad_sym",
+  "description": "Unregulated 60-mA Charge Pump Voltage Inverter with Fixed Switching Frequency 250 kHz, SOT-23-5",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps60401.pdf",
+  "keywords": "unregulated charge pump inverter fixed switching frequency",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "TPS60400DBV",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/TPS60403DBV/",
+  "part_path": "parts/TPS60403DBV",
+  "symbol_file": "parts/TPS60403DBV/TPS60403DBV.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:34.056Z"
+}

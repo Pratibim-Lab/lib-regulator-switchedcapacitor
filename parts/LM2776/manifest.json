@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/LM2776:LM2776",
+  "name": "LM2776",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/LM2776.kicad_sym",
+  "description": "Switched capacitor inverter, inverts positive voltage +2.7 to +5.5V to negative, 200mA, SOT-23-6",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm2776.pdf",
+  "keywords": "Switched capacitor inverter",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/LM2776/",
+  "part_path": "parts/LM2776",
+  "symbol_file": "parts/LM2776/LM2776.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:33.860Z"
+}

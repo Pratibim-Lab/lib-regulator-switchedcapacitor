@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/LM7705:LM7705",
+  "name": "LM7705",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/LM7705.kicad_sym",
+  "description": "Negative bias generator, low-noise, 3-5.25V input, -0.232V fixed output, VSSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm7705.pdf",
+  "keywords": "switched capacitor voltage converter inverter negative bias regulator",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/LM7705/",
+  "part_path": "parts/LM7705",
+  "symbol_file": "parts/LM7705/LM7705.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:33.899Z"
+}

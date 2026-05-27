@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/LM2775DSG:LM2775DSG",
+  "name": "LM2775DSG",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/LM2775DSG.kicad_sym",
+  "description": "5V charge pump, 200mA, WSON-8",
+  "datasheet": "https://www.ti.com/lit/gpn/lm2775",
+  "keywords": "Charge pump inductorless",
+  "footprint": "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/LM2775DSG/",
+  "part_path": "parts/LM2775DSG",
+  "symbol_file": "parts/LM2775DSG/LM2775DSG.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:33.856Z"
+}

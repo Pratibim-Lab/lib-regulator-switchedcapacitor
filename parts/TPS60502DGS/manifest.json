@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/TPS60502DGS:TPS60502DGS",
+  "name": "TPS60502DGS",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/TPS60502DGS.kicad_sym",
+  "description": "250mA High-Efficiency Step-Down Charge Pump Regulator, 1.8V Output Voltage, MSOP-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps60503.pdf",
+  "keywords": "Regulator Step-Down Charge Pump TPS Texas Instruments Ti",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "TPS60500DGS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/TPS60502DGS/",
+  "part_path": "parts/TPS60502DGS",
+  "symbol_file": "parts/TPS60502DGS/TPS60502DGS.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:34.070Z"
+}

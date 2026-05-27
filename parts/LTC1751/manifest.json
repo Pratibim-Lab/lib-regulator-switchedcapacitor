@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/LTC1751:LTC1751",
+  "name": "LTC1751",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/LTC1751.kicad_sym",
+  "description": "100mA charge-pump, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1751f.pdf",
+  "keywords": "charge pump",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/LTC1751/",
+  "part_path": "parts/LTC1751",
+  "symbol_file": "parts/LTC1751/LTC1751.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:33.990Z"
+}

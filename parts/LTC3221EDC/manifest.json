@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/LTC3221EDC:LTC3221EDC",
+  "name": "LTC3221EDC",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/LTC3221EDC.kicad_sym",
+  "description": "Micropower, Regulated Charge Pump, 1.8..5.5V input supply, adjustable Vout (FB pin), output current up to 60mA, DFN-6 (WSON-6)",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3221f.pdf",
+  "keywords": "Linear-Technology Analog-Devices DC-DC-converter",
+  "footprint": "Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.5mm_EP0.61x1.42mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/LTC3221EDC/",
+  "part_path": "parts/LTC3221EDC",
+  "symbol_file": "parts/LTC3221EDC/LTC3221EDC.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:34.010Z"
+}

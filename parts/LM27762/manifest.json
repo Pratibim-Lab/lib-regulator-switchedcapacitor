@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/LM27762:LM27762",
+  "name": "LM27762",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/LM27762.kicad_sym",
+  "description": "Low-noise inverting charge pump with both positive and negative LDO's, with 2.7V-5.5V input to +1.5 to +5V and -1.5 to -5V Output Voltage, WSON-12",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm27762.pdf",
+  "keywords": "Low-noise inverting charge pump with both positive and negative LDO's",
+  "footprint": "Package_SON:WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/LM27762/",
+  "part_path": "parts/LM27762",
+  "symbol_file": "parts/LM27762/LM27762.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:33.880Z"
+}

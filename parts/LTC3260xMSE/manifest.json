@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/LTC3260xMSE:LTC3260xMSE",
+  "name": "LTC3260xMSE",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/LTC3260xMSE.kicad_sym",
+  "description": "Low Noise Dual Supply Inverting Charge Pump with both positive and negative LDO regulators, V_{IN} range 4.5V to 32V, 50 mA LDO output current, MSOP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ltc3260.pdf",
+  "keywords": "switched capacitor inverting bipolar supply charge pump positive negativ ldo",
+  "footprint": "Package_SO:MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/LTC3260xMSE/",
+  "part_path": "parts/LTC3260xMSE",
+  "symbol_file": "parts/LTC3260xMSE/LTC3260xMSE.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:34.030Z"
+}

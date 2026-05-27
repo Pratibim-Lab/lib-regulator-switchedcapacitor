@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/LTC1754:LTC1754",
+  "name": "LTC1754",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/LTC1754.kicad_sym",
+  "description": "40mA charge-pump, SOT-23-6",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/175435f.pdf",
+  "keywords": "charge pump",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/LTC1754/",
+  "part_path": "parts/LTC1754",
+  "symbol_file": "parts/LTC1754/LTC1754.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:33.992Z"
+}

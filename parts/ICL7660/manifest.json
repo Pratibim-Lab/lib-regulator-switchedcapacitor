@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/ICL7660:ICL7660",
+  "name": "ICL7660",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/ICL7660.kicad_sym",
+  "description": "Switched-Capacitor Voltage Converter, 1.5V to 10.0V operating supply voltage, 10mA with a 0.5V output drop, SO-8/DIP-8/µMAX-8/TO-99",
+  "datasheet": "http://datasheets.maximintegrated.com/en/ds/ICL7660-MAX1044.pdf",
+  "keywords": "monolithic CMOS switched capacitor voltage converter invert double divide multiply",
+  "footprint": "",
+  "extends": "MAX1044",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/ICL7660/",
+  "part_path": "parts/ICL7660",
+  "symbol_file": "parts/ICL7660/ICL7660.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:33.849Z"
+}

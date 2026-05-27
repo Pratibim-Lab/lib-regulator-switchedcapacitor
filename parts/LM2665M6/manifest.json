@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/LM2665M6:LM2665M6",
+  "name": "LM2665M6",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/LM2665M6.kicad_sym",
+  "description": "Switched Capacitor Voltage Converter, Doubles or Splits Input Supply Voltage (2.5 V to 5.5 V or 1.8 V to 11 V), 40 mA, SOT-23-6",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lm2665.pdf",
+  "keywords": "switched capacitor voltage converter doubler splitter",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/LM2665M6/",
+  "part_path": "parts/LM2665M6",
+  "symbol_file": "parts/LM2665M6/LM2665M6.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:33.851Z"
+}

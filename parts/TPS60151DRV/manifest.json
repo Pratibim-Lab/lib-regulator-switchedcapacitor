@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/TPS60151DRV:TPS60151DRV",
+  "name": "TPS60151DRV",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/TPS60151DRV.kicad_sym",
+  "description": "5V, 140mA charge-pump, WSON-6",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps60151.pdf",
+  "keywords": "charge pump",
+  "footprint": "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/TPS60151DRV/",
+  "part_path": "parts/TPS60151DRV",
+  "symbol_file": "parts/TPS60151DRV/TPS60151DRV.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:34.046Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/LTC1044:LTC1044",
+  "name": "LTC1044",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/LTC1044.kicad_sym",
+  "description": "Switched Capacitor Voltage Converter, 1.5V to 9V supply operation, 200uA Max No Load Supply Current at 5V, DIP-8/TO-99",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/lt1044.pdf",
+  "keywords": "monolithic CMOS switched capacitor voltage converter invert double divide multiply boost",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/LTC1044/",
+  "part_path": "parts/LTC1044",
+  "symbol_file": "parts/LTC1044/LTC1044.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:33.964Z"
+}

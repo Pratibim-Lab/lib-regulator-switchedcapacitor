@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_SwitchedCapacitor/LM27761:LM27761",
+  "name": "LM27761",
+  "library": "Regulator_SwitchedCapacitor",
+  "file": "Regulator_SwitchedCapacitor.kicad_symdir/LM27761.kicad_sym",
+  "description": "low-noise regulated switched-capacitor voltage inverter with 2.7V-5.5V input to -1.5 to -5V Output Voltage, WSON-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm27761.pdf",
+  "keywords": "low-noise switched capacitor voltage converter invert",
+  "footprint": "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-switchedcapacitor@master/parts/LM27761/",
+  "part_path": "parts/LM27761",
+  "symbol_file": "parts/LM27761/LM27761.kicad_sym",
+  "source_library": "Regulator_SwitchedCapacitor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:33.869Z"
+}
